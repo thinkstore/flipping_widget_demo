@@ -2,5 +2,6 @@
 
 A new Flutter project to demonstrate how to make a flash card .
 
-./FlippingWidget.gif
+./
+![](https://github.com/thinkstore/flipping_widget_demo/FlippingWidget.gif)
 
